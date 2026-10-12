@@ -1,52 +1,27 @@
-<div align="center">
+# Khaoula Anjroum
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:bb9af7&height=200&section=header&text=Khaoula%20Anjroum&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20%26%20AI%20Engineering%20Student&descAlignY=58&descSize=18" width="100%" />
+**Élève-ingénieure Big Data & IA** · ENSA Tétouan
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Pipelines+Big+Data+temps+r%C3%A9el+%E2%9A%A1;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Data+Science+%26+Business+Intelligence+%F0%9F%93%8A;%C3%80+la+recherche+d'un+stage+PFA+%F0%9F%8E%AF" alt="Typing SVG" />
-</a>
+Je conçois des pipelines de données, des modèles de Machine Learning et des applications web.
 
-<br/>
-
-![ENSA](https://img.shields.io/badge/ENSA-T%C3%A9touan-1a1b27?style=for-the-badge&logo=academia&logoColor=bb9af7)
-![Profile views](https://komarev.com/ghpvc/?username=khaoula1-lab&label=Vues&color=bb9af7&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaoula%20Anjroum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-anjroum-7aa258387/)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-anjroum-7aa258387/)
 
 ---
 
-### 👩‍💻 `whoami`
+## Stack
 
-```python
-class Khaoula:
-    def __init__(self):
-        self.role = "Élève-ingénieure Big Data & IA"
-        self.school = "ENSA Tétouan"
-        self.focus = ["Data Science", "Business Intelligence", "Data Engineering"]
-        self.learning = ["Power BI", "Deep Learning"]
-        self.looking_for = "Stage PFA en Data Science / BI"
-```
-
----
-
-### 🧰 Stack
-
-<div align="center">
-
-![Python](https://skillicons.dev/icons?i=python,js,mysql,mongodb,cassandra,kafka,spark,fastapi,nextjs,express,docker,git,sklearn,pandas,numpy,powerbi&perline=8)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
----
-
-### 📊 Stats GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=khaoula1-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula1-lab&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
