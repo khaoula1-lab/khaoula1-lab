@@ -1,6 +1,6 @@
 # Khaoula Anjroum
 
-**Élève-ingénieure Sciences de données, Big Data & IA** · ENSA Tétouan
+**Élève-ingénieure en Sciences de données, Big Data & IA** · ENSA Tétouan
 
 Je conçois des pipelines de données, des modèles de Machine Learning et des applications web.
 
